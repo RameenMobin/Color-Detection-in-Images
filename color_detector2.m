@@ -29,7 +29,6 @@ for i = 1:7
 end
 figure
 subplot(2,4,1)
-
 imshow(image_name)
 title('original')
 subplot(2,4,2)
