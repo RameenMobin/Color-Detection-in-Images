@@ -1,6 +1,3 @@
-%choose any color from red, green, light blue, dark blue, yellow, orange,
-%purple
-color = 'green';  
 % type image name below
 image_name = 'img3.png';
 for i = 1:7
